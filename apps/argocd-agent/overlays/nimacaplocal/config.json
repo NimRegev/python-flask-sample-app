@@ -1,0 +1,1 @@
+{"appName":"argocd-agent","userGivenName":"argocd-agent","destNamespace":"nimacaplocal","destServer":"https://kubernetes.default.svc","srcPath":"apps/argocd-agent/overlays/nimacaplocal","srcRepoURL":"https://github.com/NimRegev/python-flask-sample-app.git","srcTargetRevision":"","labels":{"codefresh_io_entity":"component"}}
